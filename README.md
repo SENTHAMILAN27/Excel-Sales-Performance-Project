@@ -17,7 +17,7 @@ This Excel project analyzes sales performance across different customer segments
 - Charting & Dashboarding
 
 ## 📎 Files Included
-- [Check Out the PDF files here](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/tree/5bdebe31654d3fd791414d510e63395ae7d74155/Sales%20Perfromance))
+- [Check Out the PDF files here](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/tree/5bdebe31654d3fd791414d510e63395ae7d74155/Sales%20Perfromance)
 - [Sample data file (anonymized) for demo purposes](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/blob/5bdebe31654d3fd791414d510e63395ae7d74155/Sample%20data%20set/Customer%20and%20Market%20performance.xlsx)
 
 ## 👨‍💻 About Me
