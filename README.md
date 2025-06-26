@@ -25,5 +25,5 @@ I'm transitioning into a Data Analyst role with a background in IT support in th
 
 ## 🔗 Connect
 👉 **[Visit My Portfolio Website](https://codebasics.io/portfolio/SENTHAMILAN-A)**  
-👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan7/)**
+👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan27/)**
 
