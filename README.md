@@ -17,7 +17,7 @@ This Excel project analyzes sales performance across different customer segments
 - Charting & Dashboarding
 
 ## 📎 Files Included
-- [Check Out the PDF files here]([PDF/AtliQ  Market Performance vs Target.pdf)](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/blob/main/PDF/AtliQ%20%20Market%20Performance%20vs%20Target.pdf)
+- [Check Out the PDF files here](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/blob/main/PDF/AtliQ%20%20Market%20Performance%20vs%20Target.pdf)
 - [Sample data file (anonymized) for demo purposes](https://github.com/SENTHAMILAN27/Excel-Sales-Performance-Project/blob/main/Sample%20data%20set/Customer%20and%20Market%20performance.xlsx)
 
 ## 👨‍💻 About Me
